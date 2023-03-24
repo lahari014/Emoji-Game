@@ -1,0 +1,12 @@
+/* Write your code here. */
+.container {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  background-size: cover;
+  min-height: 85vh;
+  padding-top: 50px;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}

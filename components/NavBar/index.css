@@ -1,0 +1,17 @@
+/* Write your code here. */
+.navbar {
+  background-color: #9796f0;
+  height: 15vh;
+  padding-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card1 {
+  display: flex;
+}
+.para {
+  color: white;
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
